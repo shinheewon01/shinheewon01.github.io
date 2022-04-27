@@ -299,13 +299,13 @@ blog_list:
   subtitle: 개발 공부 블로그 
   date: 2022.03
   content: 프로젝트를 진행하면서 개념정리와 프로젝트 개발 정리를 위한 블로그입니다.
-  thumbnail_url: images/blog2.PNG
+  thumbnail_url: images/blog-2.png
   link: https://heewon528.tistory.com/
 - title: 신희원 notion
   subtitle: 개발 공부 블로그
   date: 2022.03
   content: 개인적인 일정 조정과 프로젝트 개발 정리, 개념 정리를 위한 Notion 블로그입니다.
-  thumbnail_url: images/blog1.PNG
+  thumbnail_url: images/blog-1.png
   link: https://www.notion.so/SHINHEWON-b6a22e35be8d4699b09524273f4a55f3
 
 
