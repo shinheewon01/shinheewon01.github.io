@@ -15,8 +15,8 @@ profile_image: images/me.png
 
 # SNS 아이디
 GitHub_id: "https://github.com/shinheewon01"
-Notion_id: babycheetah
-Study_id: babycheetah
+Notion_id: "https://www.notion.so/SHINHEWON-b6a22e35be8d4699b09524273f4a55f3"
+Study_id: "https://heewon528.tistory.com/"
 
 
 # # Youtube vid
@@ -49,7 +49,8 @@ slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img_bg2.jpg
   title: I am<br>Front End Developer
   subtitle: >- 
-    "안녕하세요👋 신입 Front-End 개발자<br> <strong>신희원</strong>입니다 (ง˙∇˙)ว”
+    "안녕하세요 <br> 신입 Front-End 개발자 <br> 
+    <strong>신희원</strong>입니다 (ง˙∇˙)ว”<br>
   position: absolute
   transform: translate(-50%, -50%)
   left: 200px
@@ -61,7 +62,7 @@ about_meta: About Me
 about_header: >- 
   "노력하는 사람, 꿈을 쫓는 사람"
 about_introduce: >-
-  "안녕하세요. Frond-End 전문가를 꿈꾸는 신희원 입니다."
+  "안녕하세요. Front-End 전문가를 꿈꾸는 신희원 입니다."
 about_content: >-
   학창시절 컴퓨터를 좋아하는 마음과 무언가를 만드는 것을 좋아하고 꿈꿔왔습니다.<br>
   제가 스스로 만들고 인정받는 것을 좋아했습니다.<br>
@@ -296,18 +297,24 @@ blog_header: BLOG
 blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
 blog_load_more_url: #
 blog_list:
-- title: 희원 블로그
+- title: 희원 Blog
   subtitle: 개발 공부 블로그 
   date: 2022.03
   content: 프로젝트를 진행하면서 개념정리와 프로젝트 개발 정리를 위한 블로그입니다.
   thumbnail_url: images/blog2.jpg
   link: https://heewon528.tistory.com/
-- title: 신희원 notion
+- title: 희원 notion
   subtitle: 개발 공부 블로그
   date: 2022.03
   content: 개인적인 일정 조정과 프로젝트 개발 정리, 개념 정리를 위한 Notion 블로그입니다.
   thumbnail_url: images/blog1.jpg
   link: https://www.notion.so/SHINHEWON-b6a22e35be8d4699b09524273f4a55f3
+- title: 희원 Github
+  subtitle: 개발 업로드 페이지
+  date: 2019.11
+  content: 진행한 프로젝트 들을 올리고 있는 저장소입니다.
+  thumbnail_url: images/blog3.jpg
+  link: https://github.com/shinheewon01
 
 
 # Contact
