@@ -14,12 +14,13 @@ profile_image: images/me.png
 
 
 # SNS 아이디
-facebook_id: babycheetah
-instagram_id: babycheetah
+GitHub_id: "https://github.com/shinheewon01"
+Notion_id: babycheetah
+Study_id: babycheetah
 
 
-# Youtube vid
-youtube_vid: #
+# # Youtube vid
+# youtube_vid: #
 
 
 # Custom Color 
@@ -48,7 +49,7 @@ slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img_bg2.jpg
   title: I am<br>Front End Developer
   subtitle: >- 
-    "안녕하세요👋 신입 Front-End 개발자 신희원입니다 (ง˙∇˙)ว”
+    "안녕하세요👋 신입 Front-End 개발자<br> <strong>신희원</strong>입니다 (ง˙∇˙)ว”
   position: absolute
   transform: translate(-50%, -50%)
   left: 200px
