@@ -17,7 +17,7 @@ profile_image: images/me.png
 GitHub_id: "https://github.com/shinheewon01"
 Notion_id: "https://www.notion.so/SHINHEWON-b6a22e35be8d4699b09524273f4a55f3"
 Study_id: "https://heewon528.tistory.com/"
-
+Resume_id: pdf/SHW_resume.pdf
 
 # # Youtube vid
 # youtube_vid: #
@@ -54,7 +54,7 @@ slider_1: # 형식에 맞추어 항목 추가
   position: absolute
   transform: translate(-50%, -50%)
   left: 200px
-  bottom: 280px
+  bottom: 180px
 
 
 # About
